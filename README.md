@@ -51,4 +51,5 @@ Follow these instructions to get the project up and running on your local machin
 
 ## Screenshot
 
-![Compose Email Interface](images/Screenshot 2024-05-17 223156.png)
+![Screenshot of Interface](images/Screenshot.png)
+
